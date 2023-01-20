@@ -4,3 +4,11 @@ body{
     color: black;
     font-size: large;
 }
+#color {
+    margin: 10px;
+    border: 5px rebeccapurple solid;
+
+}
+#owl {
+    border: 30px cyan solid;
+}
